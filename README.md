@@ -86,7 +86,7 @@ Customer churn directly impacts business growth and profitability. Understanding
 
 ### Customer visual Distribution
 
-![Customer visual Distribution](screenshots/visual distribution and insights.png)
+![Visual Distribution](screenshots/visual%20distribution%20and%20insights.png)
 
 ### Customer dataset preview
 
@@ -94,10 +94,10 @@ Customer churn directly impacts business growth and profitability. Understanding
 
 ### Churn rate Analysis
 
-![Churn rate Analysis](screenshots/churn rate analysis.png)
+![Churn Rate Analysis](screenshots/churn%20rate%20analysis.png)
 
 ### prediction Analysis and customer profiles
-![prediction Analysis and customer profiles](screenshots/prediction analysis and customer profile.png.png)
+![Prediction Analysis and Customer Profile](screenshots/prediction%20analysis%20and%20customer%20profile.png.png)
 
 ### Dashboard Overview
 
